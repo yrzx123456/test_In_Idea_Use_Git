@@ -9,5 +9,6 @@ public class TestGitManagementTool {
         System.out.println("我是master分支，本行代码用于测试与hot-fix分支冲突合并的情况");
         System.out.println("我是hot-fix分支，本行代码用于测试分支冲突合并的情况");
         System.out.println("测试将本地工作区修改的文件 push(推送) 到对应github上的远程库");
+        System.out.println("我是在github上修改的语句，用于测试在本地工作区pull(拉取) 对应github的远程库所修改的信息");
     }
 }
