@@ -1,0 +1,7 @@
+package com.WuXiangLu;
+
+public class TestGitManagementTool {
+    public static void main(String[] args) {
+        System.out.println("测试在IDEA中集成Git");
+    }
+}
