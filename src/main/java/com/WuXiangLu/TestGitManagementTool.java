@@ -5,5 +5,6 @@ public class TestGitManagementTool {
         System.out.println("测试在IDEA中集成Git");
         System.out.println("Hello World");
         System.out.println("小吴学习Git");
+        System.out.println("这是hot-fix分支中的内容");
     }
 }
